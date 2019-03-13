@@ -1,0 +1,11 @@
+"*":
+  "autocomplete-python":
+    useKite: false
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "one-light-ui"
+      "one-dark-syntax"
+    ]
+  "exception-reporting":
+    userId: "a37e3c18-9373-4f4a-9b7e-4206a3598b01"
